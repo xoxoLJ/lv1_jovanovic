@@ -1,0 +1,114 @@
+*
+{
+    font-family: Montserrat;
+    font-size: 16px;
+}
+.pocetna
+{
+background-color: #4E598C;
+}
+a,a:active
+{
+text-decoration: none;
+color:#F4F4F4;
+}
+a:hover{
+    background-color: #FCAF58;
+    color:#4E598C;
+}
+
+#navigacija
+{
+display:flex;
+justify-content:space-evenly;
+list-style-type: none;
+padding: 5px 5px 5px 5px;
+}
+.ovel{
+    background-color: #F7FFF7;
+}
+#slika
+{
+    align-self: center;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.dno
+{
+    background-color:#4E598C ;
+    width: 80%;
+    margin:auto;
+    
+}
+.h
+{
+    font-size: 20px;
+    color: #FCAF58;
+   text-align: center;
+   padding: 20px 20px 20px 20px;
+
+}
+.c
+{
+    width: 80%;
+    margin:auto;
+    background-color: #F7FFF7 ;
+}
+.flex
+{
+    display:flex;
+    justify-content:space-evenly;
+}
+#ob
+{
+    width: 70%;
+    margin:15px;
+    background-color: #F7FFF7;
+    text-align: left;
+}
+#link
+{
+    width: 30%;
+    margin:15px;
+    background-color: #4E598C;
+    text-align: center;
+}
+
+.spa{
+    background-color:#4E598C ;
+    color: #F4F4F4;
+    padding: 5px 5px 5px 5px;
+    font-size: 10px;    
+}
+.i{
+    color:#4E598C;
+}
+table,th,td{
+    border: 1px solid;
+   margin-left: 20%;
+   margin-right: 20%;
+
+}
+th,td
+{
+    padding: 10px 10px 10px 10px;
+}
+thead{
+    background-color:#4E598C ;
+    color: #F7FFF7;
+}
+input,textarea
+{
+ width: 100%;
+}
+input[type="submit"]
+{
+ background-color:#4E598C ;
+ color:#F4F4F4;
+}
+.lis{
+    margin: 10px;
+    font-weight: 300;
+    font-size: 20px;
+}
